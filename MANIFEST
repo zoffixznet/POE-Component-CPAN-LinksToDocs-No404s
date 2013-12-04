@@ -1,0 +1,14 @@
+Build.PL
+Changes
+MANIFEST
+README
+LICENSE
+lib/POE/Component/CPAN/LinksToDocs/No404s.pm
+t/00-load.t
+xt/pod-coverage.t
+xt/pod.t
+xt/kwalitee.t
+examples/link.pl
+Makefile.PL
+META.yml
+META.json
